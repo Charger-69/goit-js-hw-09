@@ -1,0 +1,15 @@
+.buttons {
+    display: flex;
+    justify-content: center;
+  }
+  
+  button[data-start],
+  button[data-stop] {
+    margin-left: 100px;
+    margin-top: 200px;
+    padding: 10px 30px;
+  
+    font-size: 17px;
+    font-weight: 700;
+    cursor: pointer;
+  }
